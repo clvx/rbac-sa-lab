@@ -1,6 +1,6 @@
 # Introduction
 
-rbac-sa-lab is a lab to test _allowing ServiceAccounts in a hub namespace access other namespaces_.
+rbac-sa-lab is a lab to test _allowing ServiceAccounts in a namespace access other namespaces_.
 
 ## Architecture
 
