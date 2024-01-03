@@ -1,0 +1,12 @@
+---
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: hub-sa
+  namespace: hub
+---
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: hub-view-sa
+  namespace: hub
